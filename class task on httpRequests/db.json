@@ -1,0 +1,27 @@
+{
+  "login": [
+    {
+      "email": "user1",
+      "password": "pass1",
+      "id": "37c9"
+    },
+    {
+      "id": "5ad4",
+      "email": "azmalik1323@gmail.com",
+      "password": "Abc123@123"
+    },
+    {
+      "id": "4f4d",
+      "email": "akm27022005@gmail.com",
+      "password": "@akm1234567"
+    }
+  ],
+  "signup": [
+    {
+      "fullname": "Afzal",
+      "email": "",
+      "password": "",
+      "id": "0259"
+    }
+  ]
+}
